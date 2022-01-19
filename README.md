@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peggy!
+- 👋 Hi, I’m Peggy Shen!
 - 📫 Reach me on instagram: @dgtyl
 
 
