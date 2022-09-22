@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Peggy Shen!
+- 👋 Hi, I’m Peggy!
+- 🌱 I’m currently studying information systems + art & interested in the ways the 2 disciplines intersect
 - 📫 Reach me on instagram: @dgtyl
 
 
