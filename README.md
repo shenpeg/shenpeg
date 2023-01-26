@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peggy!
 - 🌱 I’m currently studying information systems + art
-- 👀 I’m interested in the ways those 2 disciplines intersect, whether through data visualizations, net art, AI-generations, or more
+- 👀 I’m interested in the ways those 2 disciplines intersect, whether through data visualization, net art, AI-generations, or more
 - 📫 Reach me on instagram: @dgtyl
 
 
