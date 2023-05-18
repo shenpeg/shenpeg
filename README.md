@@ -10,7 +10,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenpeg&theme=dark&show_icons=true&count_private=true)](https://github.com/shenpeg)
 
-###### #student #ui/ux #creative #technology #marketing #art #design
+###### :octocat: &ensp; #student #ui/ux #creative #technology #marketing #art #design
 
 <!---
 - 💞️ I’m looking to collaborate on ...
