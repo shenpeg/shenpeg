@@ -7,6 +7,7 @@
 #### 📫 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/peggyshen/) 
 [![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:peggyshen4@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-%23323330.svg?&style=for-the-badge&logo=medium&logoColor=%2523F7DF1E)](https://medium.com/@peggyyshen)
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenpeg&theme=dark&show_icons=true&count_private=true)](https://github.com/shenpeg)
