@@ -2,7 +2,7 @@
 - 🌱 I’m currently studying Information Systems + Art at Carnegie Mellon University
 - 💡 I’m interested in how those 2 disciplines intersect- whether through UI/UX, data visualization, net art, AI-generations, or more
 - 💻 My GitHub features some of my web application development and video game projects
-- 🔗 You can also find more art + design-centered work on my [Portfolio](https://peggys.work) & [Medium](https://medium.com/@peggyyshen)
+- 🔗 You can also find more art + design-centered work in my [Portfolio](https://peggys.work)
 
 #### 📫 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/peggyshen/) 
