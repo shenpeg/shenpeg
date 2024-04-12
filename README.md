@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I’m Peggy!
-- 🌱 I’m currently studying Information Systems + Art at Carnegie Mellon University & minoring in Human-Computer Interaction
+- 🌱 I studied Information Systems + Art at Carnegie Mellon University & minored in Human-Computer Interaction
 - 💡 I’m interested in how those 2 disciplines intersect- whether through UI/UX, data visualization, net art, AI, or more
 - 💻 My GitHub features some of my web/app development and video game projects
 - 🔗 You can also find my more art + design-centered work in my [Portfolio](https://peggys.work)
