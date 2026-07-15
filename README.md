@@ -1,8 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I’m Peggy!
-- 🌱 I'm getting my master's in Human-Computer Interaction + Design at University of Washington
+- 🌱 I'm a recent graduate from UW's Masters in Human-Computer Interaction + Design
 - 🎓 Previously, I studied Information Systems + Art at Carnegie Mellon University
-- 💡 I’m interested in how those disciplines intersect- whether through UX design, data visualization, net art, AI or more
-- 💻 My GitHub features my web/app development, but for more creative technology and video game work, visit my [Itch.io](https://vey.itch.io)
+- 💡 I’m interested in how those disciplines intersect- whether through UX design, AI, data visualization, net art, or more
+- 💻 My GitHub features my web/app development, but for creative technology and video game work, visit my [Itch.io](https://vey.itch.io)
 - 🔗 Find my design-centered work in my [Portfolio](https://www.peggys.work)
 
 #### 📫 Reach me at:
